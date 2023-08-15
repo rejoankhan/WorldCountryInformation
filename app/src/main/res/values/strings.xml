@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">WorldCountryInformation</string>
+    <string name="banglades">Banglades</string>
+    <string-array name="country_names">
+
+        <item>Afganistan</item>
+        <item>Albania</item>
+        <item>Algeria</item>
+        <item>Andorra</item>
+        <item>Angola</item>
+        <item>Antigua And Barbuda</item>
+        <item>Argentina</item>
+        <item>Armenia</item>
+        <item>Austria</item>
+        <item>AzerBaijan</item>
+        <item>Bangladesh</item>
+
+
+
+    </string-array>
+    <string-array name="country_descrip">
+
+        <item>Officially the Islamic Emirate of Afghanistan, is a landlocked country located at the crossroads of Central Asia and South Asia./n
+Capital: Kabul
+CO2 emissions per capita: 0.16 metric tons (2019) World Bank
+Fertility rate: 4.75 births per woman (2020) World Bank
+GDP growth rate: -20.7% annual change (2021) World Bank
+Gross domestic product: 14.79 billion USD (2021) World Bank
+GDP per capita: 368.75 USD (2021) World Bank
+Gross national income: 67.36 billion PPP dollars (2021) World Bank</item>
+        <item>Albania</item>
+        <item>Algeria</item>
+        <item>Andorra</item>
+        <item>Angola</item>
+        <item>Antigua And Barbuda</item>
+        <item>Argentina</item>
+        <item>Armenia</item>
+        <item>Austria</item>
+        <item>AzerBaijan</item>
+        <item>Bangladesh</item>
+
+
+
+    </string-array>
+
+
+
+
+
+</resources>
